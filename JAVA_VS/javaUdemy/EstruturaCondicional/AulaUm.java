@@ -18,7 +18,7 @@ public class AulaUm {
         int x;
         x = sc.nextInt();
         if (x > 10 || x > 15) {
-            System.out.println("Oi");
+            System.out.println("Oii");
         }else{
 
             System.out.println("oii");
